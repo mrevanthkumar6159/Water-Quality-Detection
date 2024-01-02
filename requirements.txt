@@ -8,4 +8,4 @@ tensorflow
 keras
 werkzeug
 opencv-python
-imghdr
+
